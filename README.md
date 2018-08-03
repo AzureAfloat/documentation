@@ -10,6 +10,8 @@ The project consists of a core component and a number of electives. The core com
 
 This project uses a data protocol called Signal K. It's a schema for the standardization of all of the boat data, and it includes a server (written in Node.js) that that handles the flow of all of that data. It's a very cool project.
 
+Read more about Azure Afloat [here](https://github.com/AzureAfloat/documentation/blob/master/concept.md)
+
 # Getting Started
 
 If you want to get started playing with Azure Afloat, use the repositories in this GitHub organization. Here's how...

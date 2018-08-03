@@ -1,5 +1,5 @@
 # Azure Afloat - Concept
-
+git
 ## Project Summary
 ---
 The project consists of a core component and several electives. The core component is the IoT backbone for interacting with devices and their sensors as well as a web-based user interface for interacting with the humans on board. The core functionality of this project is to allow a user to gather data from their IoT devices and send that data to the Azure IoT Hub. 
